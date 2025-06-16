@@ -1,0 +1,9 @@
+[submodule "Eme-Search"]
+	path = Eme-Search
+	url = https://github.com/Tkhangds/search-sample
+[submodule "medusa-be"]
+	path = medusa-be
+	url = https://github.com/Tkhangds/eme-store-be
+[submodule "medusa-fe"]
+	path = medusa-fe
+	url = https://github.com/Tkhangds/eme-store-fe
